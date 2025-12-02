@@ -51,7 +51,7 @@ const AboutGrid: React.FC = () => {
       id="about-grid"
       className="min-h-screen bg-gradient-to-b from-white to-gray-50 pb-20 px-4"
     >
-      <div className="max-w-7xl mx-auto space-y-32">
+      <div className="max-w-7xl py-[6rem] mx-auto space-y-32">
         {/* First Hero Section - Image on Left, Content on Right */}
         <motion.div
           className="hero"
